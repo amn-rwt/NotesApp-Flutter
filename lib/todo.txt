@@ -1,0 +1,17 @@
+- Reorder tasks
+// - Undo remove todo
+// - ListTile trailing to change priority.
+// - Prioritization
+- Pictures on tasks
+- Sync
+- Today List
+- Future List
+- Voice Capture
+// - add elevation to FAB
+// - last list tile is blocked behind FAB
+// - state order of listView in all notes gets destroyed on scrolling to the end.
+// - Show todos with date tag. Todos sorted under specific date tag.
+- set reminders for todos.
+
+Todos order gets rearranged on marking as complete. As it resets the DateTime.now() value.
+While updating the todo use the DateTime value instead of leaving that empty.
